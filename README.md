@@ -1,2 +1,0 @@
-# TKHproject
-About me page
